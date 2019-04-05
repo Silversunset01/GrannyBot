@@ -1,4 +1,4 @@
-# MushroomStew
+# GrannyBot
 
 A basic discord bot that announces twitch streamers & provides some moderation features
 
