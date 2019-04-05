@@ -96,10 +96,3 @@ Your server must be running NODE.JS and will need some form of autorun script. F
     * Attach Files
     * Read Message History
 
-# Required Channels
-* `#deletion-logs`
-* `#join-logs`
-* `#logs`
-* `#nickname-logs`
-* `#ban-logs`
-* `#restart-logs`
