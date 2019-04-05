@@ -1,0 +1,23 @@
+{
+	"token": "ADD TOKEN HERE",
+	"prefix": "?",
+    "owner": "ADD BOT ID HERE",
+    "specialRoles": ["Bots", "Admin", "Mod", "Now Live", "Member", "@everyone"],
+    "defaultRole": "Member", 
+    "modRole": "Mod",
+    "headRole": "Admin",
+    "streamRole": "Streamer",
+    "liveRole": "Now Live",
+    "streamChannel": "streaming",
+    "censoredWords": ["nigga", "nigger"],
+    "welcomeChannel": "welcome",
+    "joinLogs": "member-logs",
+    "banLogs": "member-logs",
+    "deleteLogs": "msg-logs",
+    "editLogs": "msg-logs",
+    "nickLogs": "member-logs",
+    "errorLogs": "bot-logs",
+    "restartLogs": "bot-logs",
+    "logs": "bot-logs",
+    "botGuild": "ADD GUILD ID HERE"
+}
