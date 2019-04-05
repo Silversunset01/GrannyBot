@@ -1,0 +1,11 @@
+{
+	"name": "Grandma",
+	"version": "1.0.0.0",
+	"description": "Literally Magic",
+	"main": "grandma.js",
+	"author": "Silversunset",
+	"dependencies": {
+		"axios": "^0.18.0",
+		"discord.js": "^11.4.2"
+	}
+}
